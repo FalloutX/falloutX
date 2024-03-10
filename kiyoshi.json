@@ -2,5 +2,9 @@
   "name": "Kiyoshi",
   "symbol": "KIYSHOI",
   "description": "Kiyoshi the valiant",
-  "image": "https://raw.githubusercontent.com/FalloutX/falloutX/main/kiyoshi.jpg"
+  "image": "https://raw.githubusercontent.com/FalloutX/falloutX/main/kiyoshi.jpg",
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 2,
+  "key": 4
 }
